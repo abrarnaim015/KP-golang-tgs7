@@ -1,1 +1,1 @@
-# KP-golang-tgs7
+# KartuPrakerja-Golang-Tugas7
